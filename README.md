@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on App Development<br>🤝 I’m looking for help with Chat API<br>🌱 I’m currently learning Flutter and Python<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on DevOps <br>🤝 I’m looking for help with Chat API<br>🌱 I’m currently learningPython<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
