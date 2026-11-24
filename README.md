@@ -41,7 +41,6 @@ Hello! I'm **Abhishek Kurhade** 👋
 ## 🤝 Connect With Me
 <div align="center">
 <a href="https://www.linkedin.com/in/abhishek-kurhade/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:abhishekakurhade@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
@@ -53,7 +52,7 @@ Hello! I'm **Abhishek Kurhade** 👋
 <div align="center">
 
 ### "The most powerful tool we have as developers is automation." 
-— Scott Hanselman
+  — Scott Hanselman
 
 
 
